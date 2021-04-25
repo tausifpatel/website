@@ -14,3 +14,7 @@ with programmers and other users of Git.
 
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
+
+## Braching in github
+
+Created a new branch to try push and pull requests to github
